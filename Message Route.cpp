@@ -52,4 +52,4 @@ int main() {
 		cout << v << " ";
 	cout << "\n";
 	return 0;
-}
+}\
